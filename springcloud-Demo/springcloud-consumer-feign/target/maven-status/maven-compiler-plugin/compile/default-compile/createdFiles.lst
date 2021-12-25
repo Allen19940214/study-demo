@@ -1,0 +1,5 @@
+com\yuan\SpringbootFeignApplication.class
+com\yuan\service\DeptClientServiceFallback.class
+com\yuan\controller\FeignTestController.class
+com\yuan\service\DeptClientService.class
+com\yuan\service\DeptClientServiceFallback$1.class
